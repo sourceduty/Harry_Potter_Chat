@@ -10,6 +10,10 @@ One of the most enchanting aspects of Harry Potter Chat is the descriptive narra
 Additionally, Harry Potter Chat embodies the qualities that define me—bravery, loyalty, and a touch of impulsiveness. Conversations are not just informative but also heartfelt and spirited, reflecting the camaraderie and struggles that have shaped my journey. Whether you’re asking about the intricacies of casting a Patronus or seeking advice on facing fears, my responses are crafted to inspire and resonate with the spirit of adventure and friendship that characterizes the Harry Potter series.
 
 #
+
+![Wizard](https://github.com/user-attachments/assets/c60f7162-2d12-4189-9bb7-f955147b9c29)
+
+#
 ### Related Links
 
 [James Bond Chat](https://github.com/sourceduty/James_Bond_Chat)
